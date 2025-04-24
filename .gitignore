@@ -10,6 +10,7 @@ node_modules/
 dist/
 
 venv/
+.venv/
 .idea/
 build/
 dist/
